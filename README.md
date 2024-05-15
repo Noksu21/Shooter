@@ -2,6 +2,7 @@ Peli on harjoitus työ Unreal Engine versiolla 5.2
 peli projecti sisältää suurimmaksi osaksi blueprints mutta muutama yksi c++ scipt löytyy.
 Projectin blueprintin ovat commentoitu kertomaan ja selittämään mitä mikäkin tekee sekä helposti muokattavissa oman mielen mukaan.
 projecti on helposti suoraan importattavissa kaikki löytyy tästä git reposta.
+Tärkeä lataa 5.2 unreal engine ohjeet lataa zip extract file  avaa shooter tiedotto (unreal engine  project) mahdollisesti joudut buildaamaan tiedoston tiedosto aukeaa.
 peli projectin ominaisuudet 
                     Hud
 -Main menu(pelaaja voi quit tai Aloittaa pelin)
